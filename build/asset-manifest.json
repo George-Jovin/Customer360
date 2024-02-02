@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fd2081c.css",
+    "main.js": "/static/js/main.0ee33dde.js",
+    "static/js/787.9b04b1ad.chunk.js": "/static/js/787.9b04b1ad.chunk.js",
+    "static/media/login.gif": "/static/media/login.9aa70180a71f55520b96.gif",
+    "static/media/chatbg.jpg": "/static/media/chatbg.cbf8eeb92150153eb844.jpg",
+    "static/media/kmpg.png": "/static/media/kmpg.13cbc9fb3b208b02636b.png",
+    "static/media/dxicons.woff": "/static/media/dxicons.c568ff14b17313b699e2.woff",
+    "static/media/dxicons.ttf": "/static/media/dxicons.506efc48bb7054c11c4d.ttf",
+    "static/media/Login.svg": "/static/media/Login.e7cf6ab9c90910636f38854878ba9ec3.svg",
+    "static/media/dxicons.woff2": "/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
+    "static/media/Customer360.svg": "/static/media/Customer360.649fe673091cd29f8c8cdc390f80516a.svg",
+    "static/media/Chatbot.svg": "/static/media/Chatbot.13c86f67d43a489534d71028c7b48bd2.svg",
+    "static/media/Capa.svg": "/static/media/Capa.fcb8b8144f4379f81afa62f34d91f52e.svg",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.fa63d27570d024ebc471.svg",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.2ce6ade34277602ea247.svg",
+    "main.9fd2081c.css.map": "/static/css/main.9fd2081c.css.map",
+    "main.0ee33dde.js.map": "/static/js/main.0ee33dde.js.map",
+    "787.9b04b1ad.chunk.js.map": "/static/js/787.9b04b1ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fd2081c.css",
+    "static/js/main.0ee33dde.js"
+  ]
+}
