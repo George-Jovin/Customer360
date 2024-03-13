@@ -18,4 +18,4 @@ jobs:
              #password: ${{ secrets.TESTVM_PASSWORD }}
              key: ${{ secrets.KPMG_SSH_KEY }}  
              script: |
-              git clone https://github.com/George-Jovin/Customer360.git /home/$(whoami)/deployment_git ; sudo rm -rf /var/www/html/* ; sudo cp -r /home/$(whoami)/deployment_git/Customer360/build/* /var/www/html/ ; rm -rf /home/$(whoami)/deployment_git/ ; sudo systemctl restart nginx
+              git clone https://github.com/George-Jovin/Customer360.git /home/$(whoami)/deployment_git ; sudo rm -rf /var/www/html/* ; sudo cp -r /home/$(whoami)/deployment_git/build/* /var/www/html/ ; rm -rf /home/$(whoami)/deployment_git/ ; sudo systemctl restart nginx
